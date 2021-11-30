@@ -1,4 +1,4 @@
-# Stream and Socket.io
+# Stream and Socket.io AND Real Time Camera
 
 ## At first
 
@@ -23,5 +23,12 @@ $ node unzipper.js
 ```
 $ cd socket
 $ npm start
+$ open localhost:3000 in browser
+```
+###Real Time Camera:
+
+```
+$ cd cam
+$ node server.js
 $ open localhost:3000 in browser
 ```
